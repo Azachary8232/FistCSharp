@@ -1,14 +1,18 @@
 ﻿
 
 
-int x = 3;
-
-x = x + 2;
 
 
+static void OddArray(int num){
+    int odd = num/2 + 1;
+    int[] oddNums = new int[odd];
+    int index = 0;
+    for( int i = 1; i <= num; i = i + 2){
+        oddNums[index] = i;
+        Console.WriteLine(oddNums[index]);
+        index++;
+    }
+}
 
 
-
-Console.WriteLine(x+2);
-Console.WriteLine(x);
-
+OddArray(255);
