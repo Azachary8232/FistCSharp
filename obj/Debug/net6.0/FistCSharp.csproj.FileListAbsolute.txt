@@ -1,0 +1,15 @@
+C:\Users\Azach\Desktop\Coding\C#\FistCSharp\bin\Debug\net6.0\FistCSharp.exe
+C:\Users\Azach\Desktop\Coding\C#\FistCSharp\bin\Debug\net6.0\FistCSharp.deps.json
+C:\Users\Azach\Desktop\Coding\C#\FistCSharp\bin\Debug\net6.0\FistCSharp.runtimeconfig.json
+C:\Users\Azach\Desktop\Coding\C#\FistCSharp\bin\Debug\net6.0\FistCSharp.dll
+C:\Users\Azach\Desktop\Coding\C#\FistCSharp\bin\Debug\net6.0\FistCSharp.pdb
+C:\Users\Azach\Desktop\Coding\C#\FistCSharp\obj\Debug\net6.0\FistCSharp.csproj.AssemblyReference.cache
+C:\Users\Azach\Desktop\Coding\C#\FistCSharp\obj\Debug\net6.0\FistCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azach\Desktop\Coding\C#\FistCSharp\obj\Debug\net6.0\FistCSharp.AssemblyInfoInputs.cache
+C:\Users\Azach\Desktop\Coding\C#\FistCSharp\obj\Debug\net6.0\FistCSharp.AssemblyInfo.cs
+C:\Users\Azach\Desktop\Coding\C#\FistCSharp\obj\Debug\net6.0\FistCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Azach\Desktop\Coding\C#\FistCSharp\obj\Debug\net6.0\FistCSharp.dll
+C:\Users\Azach\Desktop\Coding\C#\FistCSharp\obj\Debug\net6.0\refint\FistCSharp.dll
+C:\Users\Azach\Desktop\Coding\C#\FistCSharp\obj\Debug\net6.0\FistCSharp.pdb
+C:\Users\Azach\Desktop\Coding\C#\FistCSharp\obj\Debug\net6.0\FistCSharp.genruntimeconfig.cache
+C:\Users\Azach\Desktop\Coding\C#\FistCSharp\obj\Debug\net6.0\ref\FistCSharp.dll
