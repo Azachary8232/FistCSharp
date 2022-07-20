@@ -2,17 +2,13 @@
 
 
 
+Animal a  = new Animal("Tiger", 4, 750.00, true, "Orange");
+Animal b  = new Animal("Dolphin", 0, 250, true, "Gray");
+Animal c  = new Animal("Spider", .02, "Black");
 
-static void OddArray(int num){
-    int odd = num/2 + 1;
-    int[] oddNums = new int[odd];
-    int index = 0;
-    for( int i = 1; i <= num; i = i + 2){
-        oddNums[index] = i;
-        Console.WriteLine(oddNums[index]);
-        index++;
-    }
-}
-
-
-OddArray(255);
+// Console.WriteLine(a.species);
+Console.WriteLine(b.Weight);
+// Console.WriteLine(c.color);
+// b.showStats();
+// b.eat(15);
+Console.WriteLine(b.Weight);
